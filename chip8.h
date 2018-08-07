@@ -1,6 +1,7 @@
 // (c) 2018 Zachary Wells
 // This code is licensed under MIT license (see LICENSE for details)
 
+#include <stddef.h>
 #include <stdint.h>
 
 #define CHIP8_WIDTH  64
